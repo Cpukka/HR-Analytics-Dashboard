@@ -1,0 +1,1 @@
+This project demonstrates my skills in Power BI, Power Query, DAX, data modeling, and interactive dashboard design. It transforms raw data into actionable business insights through professional visualizations, KPIs, and dynamic filtering.
